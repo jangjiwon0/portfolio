@@ -486,7 +486,7 @@ figure {
   position: absolute;
   content: " ";
   width: 2px;
-  background-color: #e6e6e6;
+  background-color: #cdd1ae;
   left: 50%;
   margin-left: 0px;
 }
@@ -516,7 +516,7 @@ figure {
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
-  background: #e6e6e6;
+  background: #cdd1ae;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -659,7 +659,7 @@ figure {
   margin-bottom: 20px;
   font-size: 16px;
   font-weight: normal;
-  color: #bfbfbf;
+  color: #a1afa1;
 }
 
 .timeline-body>p,
@@ -1670,7 +1670,7 @@ input[type="text"] {
 }
 .fh5co-heading h2{
   font-weight: 700;
-  color: #2b4b32;
+  color: #42451b;
 }
 .row_jw{
   display: flex;
